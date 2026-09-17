@@ -8,6 +8,14 @@
 
 # User-specific files
 .Ruserdata
+config.env
+.out
+.err
+
+# Created folders
+data/
+logs/
+results/
 
 # Example code in package build process
 *-Ex.R
